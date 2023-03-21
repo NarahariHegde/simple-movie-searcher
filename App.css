@@ -55,11 +55,11 @@ img {
 .grid {
   /* width: 100%; */
   display: grid;
-  gap: 3rem;
+  gap: 5rem;
 }
 
 .grid-4-col {
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .card {
